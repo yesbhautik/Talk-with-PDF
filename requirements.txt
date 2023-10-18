@@ -7,6 +7,7 @@ faiss-cpu
 altair
 tiktoken
 matplotlib
+pycryptodome==3.15.0
 # uncomment to use huggingface llms
 # huggingface-hub==0.14.1
 
