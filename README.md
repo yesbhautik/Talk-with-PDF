@@ -39,13 +39,14 @@ Before using the chatbot, ensure you have the following installed:
 ## Usage
 
 1. Run the chatbot using the following command:
+
     ```shell
     streamlit run app.py
     ```
-2. The chatbot interface will open in your default web browser.
-3. Upload one or more PDF files for processing.
-4. Start a conversation by asking questions or making inquiries about the PDF content.
-5. The chatbot will provide responses based on the content of the uploaded PDFs.
+3. The chatbot interface will open in your default web browser.
+4. Upload one or more PDF files for processing.
+5. Start a conversation by asking questions or making inquiries about the PDF content.
+6. The chatbot will provide responses based on the content of the uploaded PDFs.
 
 ## Features
 
