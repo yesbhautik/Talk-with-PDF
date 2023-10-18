@@ -66,7 +66,7 @@ def handle_userinput(user_question):
 
 def main():
     load_dotenv()
-    st.set_page_config(page_title="Ask to your Own AI",
+    st.set_page_config(page_title="Talk with PDF",
                     page_icon="icon.png")
     st.write(css, unsafe_allow_html=True)
 
@@ -76,7 +76,7 @@ def main():
         st.session_state.chat_history = None
 
     st.header("Chat with AI with Custom Data 🚀")
-    user_question = st.text_input("Ask a question about your Data:  ^_^")
+    user_question = st.text_input("Ask a question about your Data:")
 
     with st.sidebar:
         st.subheader("Your documents")
