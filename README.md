@@ -38,6 +38,12 @@ Before using the chatbot, ensure you have the following installed:
     pip install -r requirements.txt
     ```
 
+4. Copy .env.example to .env and set your OpenAI & Hugging Face API keys:
+
+    ```shell
+    cp .env.example .env
+    ```
+
 ## Usage 📋
 
 1. Run the chatbot using the following command:
