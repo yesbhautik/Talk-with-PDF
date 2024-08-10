@@ -50,7 +50,7 @@ a:link {
 bot_template = '''
 <div class="chat-message bot">
     <div class="avatar">
-        <img src="https://pub-f858c7e521464395920779af297fb1bd.r2.dev/TalkWithPFD-icon.png" style="max-height: 45px; max-width: 45px; border-radius: 20%; object-fit: cover;">
+        <img src="https://pub-f858c7e521464395920779af297fb1bd.r2.dev/TalkWithPFD-icon.png" style="max-height: 55px; max-width: 55px; border-radius: 20%; object-fit: cover;">
     </div>
     <div class="message">{{MSG}}</div>
 </div>
